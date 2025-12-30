@@ -6,5 +6,5 @@ Steps to Use:
    pip install PyPDF2 pyttsx3
 2.  Install the Offline AI Llama3
    ollama pull llama3
-3. Copy your PDF of Books in Books Folder.
+3. Make a folder "Books" and Copy your PDF of Books in Books Folder.
 4. run book_analyser.py file.
